@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GitHub Mobile</string>
+    <string name="auth_login">Sign in</string>
+</resources>
